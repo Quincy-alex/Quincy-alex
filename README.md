@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Moi c'est Alexis !
 
-<!--
-**Quincy-alex/Quincy-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intégrateur Web & Créateur de Boutiques Shopify basé à Saint-Maximin-la-Sainte-Baume 📍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Mes Compétences & Technologies
+- E-Commerce : Shopify (Partner), Templating Liquid, Configuration & Stratégie.
+- Front-End : HTML5, CSS3, Javascript, React, Vercel : Responsive Design, CSS sur-mesure.
+- Projets : Création de composants e-commerce, intégration de maquettes, optimisation mobile.
+
+---
+
+📌 Projets à découvrir
+- 🛒 [La Baume Web — Shopify Portfolio](./labaume-shopify-portfolio) : Composants et sections sur-mesure codés pour Shopify.
+- 📄 [Mon CV Web](./simplon-cv-projet) : Mon parcours et mes réalisations intégrés en code.
+
+---
+
+📫 Me contacter : angelinialexis3@gmail.com
