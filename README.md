@@ -12,8 +12,8 @@ Intégrateur Web & Créateur de Boutiques Shopify basé à Saint-Maximin-la-Sain
 ---
 
 📌 Projets à découvrir
-- 🛒 [La Baume Web — Shopify Portfolio](./labaume-shopify-portfolio) : Composants et sections sur-mesure codés pour Shopify.
-- 📄 [Mon CV Web](./simplon-cv-projet) : Mon parcours et mes réalisations intégrés en code.
+- 🛒 [La Baume Web — Shopify Portfolio](./la-baume-adresse-portfolio) : Composants et sections sur-mesure codés pour Shopify.
+- 📄 [Mon CV Web](./cv-web2026) : Mon parcours et mes réalisations intégrés en code.
 
 ---
 
